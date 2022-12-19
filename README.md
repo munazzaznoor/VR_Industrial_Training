@@ -1,5 +1,4 @@
 # VR_Industrial_Training
-Virtual Reality Project.
 
 The goal of this project is to provide industrial training in virtual reality technology.
 
