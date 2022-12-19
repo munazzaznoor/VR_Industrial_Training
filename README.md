@@ -1,7 +1,7 @@
 # VR_Industrial_Training
 Virtual Reality Project.
 
-Aim : Industrial training in Virtual Reality.
+The goal of this project is to provide industrial training in virtual reality technology.
 
 Meta Quest 2 with controllers.
 
