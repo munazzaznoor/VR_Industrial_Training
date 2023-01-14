@@ -1,5 +1,5 @@
 # VR_Industrial_Training
-
+Unfortunately, due to the confidential nature of the company, I am unable to share the project publicly.
 The goal of this project is to provide industrial training in virtual reality technology.
 
 Meta Quest 2 with controllers.
